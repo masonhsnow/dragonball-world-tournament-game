@@ -1,6 +1,7 @@
 body {
   font-family: "Press Start 2P", cursive;
   background: linear-gradient(to right, red, yellow);
+  margin: auto;
 }
 
 #first-heading {
